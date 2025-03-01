@@ -1,5 +1,5 @@
 
-# Fortune ⚖️
+# Fortune 🪼
 
 ### Quick start
 
